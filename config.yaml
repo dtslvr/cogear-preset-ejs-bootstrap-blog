@@ -6,7 +6,7 @@ blog:
   index: ""
   regex: "^post/"
   tagUri: "tag"
-  perPage: 3
+  perPage: 2
 pages:
   ^post/:
     layout: index.ejs
