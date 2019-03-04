@@ -7,7 +7,7 @@ This is a ready to use blog preset. Just clone this repository, install the depe
 Clone this repo to the target local directory:
 ``` shell
 > cd ~/Sites/
-> git clone --recurse-submodules dtslvr/cogear-preset-ejs-bootstrap-blog blog
+> git clone --recurse-submodules https://github.com/dtslvr/cogear-preset-ejs-bootstrap-blog blog
 ```
 
 Install dependencies:
