@@ -1,0 +1,18 @@
+title: Blog | Cogear.JS – modern static websites generator
+description:
+keywords:
+theme: ejs-bootstrap-blog
+blog:
+  index: ""
+  regex: "^post/"
+  tagUri: "tag"
+  perPage: 5
+pages:
+  ^post/:
+    layout: post
+    author:
+      login: Dmitriy Beliaev
+      avatar: 'https://www.gravatar.com/avatar/400caf343d3bab57ab93f63e21a12be7?s=24'
+      link: https://cogearjs.org
+.*:
+  layout: index.ejs

@@ -1,0 +1,3 @@
+[submodule "themes/ejs-bootstrap-blog"]
+	path = themes/ejs-bootstrap-blog
+	url = https://github.com/dtslvr/cogear-theme-ejs-bootstrap-blog

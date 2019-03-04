@@ -1,0 +1,18 @@
+{
+  "name": "cogear-preset-ejs-bootstrap-blog",
+  "description": "Preset to create a bootstrap blog in ejs with Cogear.JS",
+  "version": "1.0.0",
+  "repository": "https://github.com/dtslvr/cogear-preset-ejs-bootstrap-blog",
+  "homepage": "https://github.com/dtslvr/cogear-preset-ejs-bootstrap-blog",
+  "author": "Thomas Kaul",
+  "license": "MIT",
+  "scripts": {
+    "start": "cogear -p 1234"
+  },
+  "dependencies": {
+    "cogear-theme-ejs-bootstrap-blog": "1.0.1"
+  },
+  "devDependencies": {
+    "cogear": "1.3.4"
+  }
+}
