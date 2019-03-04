@@ -6,13 +6,13 @@ blog:
   index: ""
   regex: "^post/"
   tagUri: "tag"
-  perPage: 5
+  perPage: 3
 pages:
   ^post/:
-    layout: post
+    layout: index.ejs
     author:
       login: Dmitriy Beliaev
       avatar: 'https://www.gravatar.com/avatar/400caf343d3bab57ab93f63e21a12be7?s=24'
       link: https://cogearjs.org
-.*:
-  layout: index.ejs
+  .*:
+    layout: index.ejs
