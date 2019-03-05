@@ -2,6 +2,8 @@
 
 This is a ready to use blog preset. Just clone this repository, install the dependencies with `yarn install` and run `yarn start` in the project directory from the command line.
 
+![screenshot](https://github.com/dtslvr/cogear-preset-ejs-bootstrap-blog/raw/master/screenshot.png)
+
 # Installation
 
 Clone this repo to the target local directory:
