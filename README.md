@@ -1,29 +1,41 @@
-# Cogear.JS preset `ejs-bootstrap-blog`
+# Cogear.JS preset for `ejs-bootstrap-blog` theme
 
-This is a ready to use blog preset. Just clone this repository, install the dependencies with `yarn install` and run `yarn start` in the project directory from the command line.
+This is a ready to use blog preset for the [ejs-bootstrap-blog](https://github.com/dtslvr/cogear-theme-ejs-bootstrap-blog) theme. Just clone this repository, install the dependencies and run the project.
 
 ![screenshot](https://github.com/dtslvr/cogear-preset-ejs-bootstrap-blog/raw/master/screenshot.png)
 
 # Installation
 
-Clone this repo to the target local directory:
+## Clone the repository to your local directory
 ``` shell
-> cd ~/Sites/
-> git clone --recurse-submodules https://github.com/dtslvr/cogear-preset-ejs-bootstrap-blog blog
+> git clone https://github.com/dtslvr/cogear-preset-ejs-bootstrap-blog my-blog
 ```
 
-Install dependencies:
+## Install dependencies
 ``` shell
-> cd ~/Sites/blog
+> cd my-blog
 > npm install
+```
+
 or
+
+``` shell
+> cd my-blog
 > yarn install
 ```
 
-You're ready to go! Fire up `yarn start` in `dev` mode, your new blog will be opened in the browser automatically!
+## Run the project
+You are ready to go! Fire up the the command below and your new blog will be opened in the browser!
+
+``` shell
+> npm start
+```
+
+or
+
 ``` shell
 > yarn start
 ```
 
-# Read the docs
-https://cogearjs.org/docs
+# Further reading
+Find more information in the official [Cogear.JS](https://cogearjs.org) documentation: https://cogearjs.org/docs
