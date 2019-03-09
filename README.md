@@ -6,12 +6,12 @@ This is a ready to use blog preset for the [ejs-bootstrap-blog](https://github.c
 
 # Installation
 
-## Clone the repository to your local directory
+## Clone the repository to your local directory
 ``` shell
 > git clone https://github.com/dtslvr/cogear-preset-ejs-bootstrap-blog my-blog
 ```
 
-## Install dependencies
+## Install dependencies
 ``` shell
 > cd my-blog
 > npm install
@@ -24,7 +24,7 @@ or
 > yarn install
 ```
 
-## Run the project
+## Run the project
 You are ready to go! Fire up the the command below and your new blog will be opened in the browser!
 
 ``` shell
